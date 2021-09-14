@@ -1,6 +1,8 @@
 # Vera Music
 an Advanced Music Bot for Discord, coded with discord.js v13 and nodejs 16.0.0, supports slash commands and buttons.
 
+![](Gallery/banner.jpg)
+
 # Info & Credits
 - This bot was made by Natalia
 
